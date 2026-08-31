@@ -1,7 +1,6 @@
 # Planar Mechanism Kinematics Toolkit
 
-A Python + MATLAB project for the computational position analysis of common planar mechanisms. The initial release implements **four-bar linkage** and **slider-crank** kinematics with engineering plots and automated geometry checks.
-
+A Python + MATLAB project for the computational position analysis of common planar mechanisms. The initial release implements **four-bar linkage** and **slider-crank** kinematics.
 ![Four-bar relationship](assets/four_bar_input_output.png)
 
 ![Coupler curve](assets/coupler_curve.png)
